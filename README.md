@@ -5,3 +5,4 @@
   - Old wip Game Prototype: [https://hexproto.zageron.ca](https://hexproto.zageron.ca/)
   - RRR nightly: [https://rrr.flashflashrevolution.com](https://rrr.flashflashrevolution.com/?scroll_direction=up&scroll_speed=1200&judge_position=92&muted=false&offset=100)
 - 😄 Pronouns: he/him
+- My code and my opinions are my own.
