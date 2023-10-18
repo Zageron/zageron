@@ -1,8 +1,7 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on a rebuild of Flash Flash Revolution, called Rust Rust Revolution.
-  - Inactive Blog: [https://zageron.ca](https://zageron.ca)
-  - Old wip Game Prototype: [https://hexproto.zageron.ca](https://hexproto.zageron.ca/)
-  - RRR nightly: [https://rrr.flashflashrevolution.com](https://rrr.flashflashrevolution.com/?scroll_direction=up&scroll_speed=1200&judge_position=92&muted=false&offset=100)
+- 🔭 Current Projects
+  - Active: Working on a game using a homemade engine. In Rust, with WGPU. [hex](https://github.com/zageron/hex)
+  - Backburner: Working on a rebuild of Flash Flash Revolution, called Rust Rust Revolution.
 - 😄 Pronouns: he/him
 - ⚖️ My code and my opinions are my own.
